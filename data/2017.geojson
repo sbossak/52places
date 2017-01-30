@@ -1,0 +1,629 @@
+eqfeed_callback({
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.346771,56.130366 ]
+    },
+    "properties": {
+    "name":"Canada",
+    "slug":"canada",
+    "rank":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.1328491,-23.8634189 ]
+    },
+    "properties": {
+    "name":"Atacama Desert, Chile",
+    "slug":"atacama",
+    "rank":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.021112,27.1795328 ]
+    },
+    "properties": {
+    "name":"Agra, India [Agra Fort, Taj Mahal]",
+    "slug":"agra",
+    "rank":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.749117,46.0207133 ]
+    },
+    "properties": {
+    "name":"Zermatt, Switzerland",
+    "slug":"zermatt",
+    "rank":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.508698,-19.924531 ]
+    },
+    "properties": {
+    "name":"Botswana [Safari]",
+    "slug":"botswana",
+    "rank":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0944238,42.6506606 ]
+    },
+    "properties": {
+    "name":"Dubrovnik, Croatia",
+    "slug":"dubrovnik",
+    "rank":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.6817627,43.7904282 ]
+    },
+    "properties": {
+    "name":"Grand Teton National Park, Wyoming",
+    "slug":"grandteton",
+    "rank":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0382471,32.5149469 ]
+    },
+    "properties": {
+    "name":"Tijuana, Mexico",
+    "slug":"tijuana",
+    "rank":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0457538,42.331427 ]
+    },
+    "properties": {
+    "name":"Detroit, Michigan",
+    "slug":"detroit",
+    "rank":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9936818,53.5510846 ]
+    },
+    "properties": {
+    "name":"Hamburg, Germany",
+    "slug":"hamburg",
+    "rank":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.9810845,31.6294723 ]
+    },
+    "properties": {
+    "name":"Marrakesh, Morocco",
+    "slug":"marrakesh",
+    "rank":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3940104,34.8526176 ]
+    },
+    "properties": {
+    "name":"Greenville, South Carolina",
+    "slug":"greenville",
+    "rank":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.4965579,-0.1805418 ]
+    },
+    "properties": {
+    "name":"Pedregal, Ecuador",
+    "slug":"penzance",
+    "rank":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.537592,50.118798 ]
+    },
+    "properties": {
+    "name":"Penzance, England",
+    "slug":"placencia",
+    "rank":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 135.5021651,34.6937378 ]
+    },
+    "properties": {
+    "name":"Osaka, Japan",
+    "slug":"pedregal",
+    "rank":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0685808,59.3293235 ]
+    },
+    "properties": {
+    "name":"Stockholm, Sweden",
+    "slug":"stockholm",
+    "rank":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.5122178,27.5329718 ]
+    },
+    "properties": {
+    "name":"Sikkim, India",
+    "slug":"sikkim",
+    "rank":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.2216678,43.0010171 ]
+    },
+    "properties": {
+    "name":"Île de Porquerolles, France",
+    "slug":"iledeporquerolles",
+    "rank":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.869107,-18.766947 ]
+    },
+    "properties": {
+    "name":"Madagascar",
+    "slug":"madagascar",
+    "rank":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.511909,18.252847 ]
+    },
+    "properties": {
+    "name":"Sanya, China",
+    "slug":"sanya",
+    "rank":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.429859,35.126413 ]
+    },
+    "properties": {
+    "name":"Cyprus",
+    "slug":"cyprus",
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.6991918,-18.2870668 ]
+    },
+    "properties": {
+    "name":"Great Barrier Reef, Australia",
+    "slug":"greatbarrierreef",
+    "rank":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2650108,44.977753 ]
+    },
+    "properties": {
+    "name":"Minneapolis, Minnesota",
+    "slug":"minneapolis",
+    "rank":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.8099041,18.0178743 ]
+    },
+    "properties": {
+    "name":"Kingston, Jamaica",
+    "slug":"kingston",
+    "rank":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.7855323,38.3815245 ]
+    },
+    "properties": {
+    "name":"Comporta, Portugal",
+    "slug":"comporta",
+    "rank":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 66.923684,48.019573 ]
+    },
+    "properties": {
+    "name":"Kazakhstan",
+    "slug":"kazakhstan",
+    "rank":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.609444,-0.803689 ]
+    },
+    "properties": {
+    "name":"Gabon",
+    "slug":"gabon",
+    "rank":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.7275388,37.9838096 ]
+    },
+    "properties": {
+    "name":"Athens, Greece",
+    "slug":"athens",
+    "rank":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.590149,18.220833 ]
+    },
+    "properties": {
+    "name":"Northwest Puerto Rico",
+    "slug":"osaka",
+    "rank":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.9817163,18.7060641 ]
+    },
+    "properties": {
+    "name":"Chiang Mai, Thailand",
+    "slug":"chiangmai",
+    "rank":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3943299,38.4274315 ]
+    },
+    "properties": {
+    "name":"Napa Valley, California",
+    "slug":"napa",
+    "rank":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.0767365,15.8719795 ]
+    },
+    "properties": {
+    "name":"Puerto Escondido, Mexico",
+    "slug":"puertorico",
+    "rank":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.7609896,34.8697395 ]
+    },
+    "properties": {
+    "name":"Sedona, Arizona",
+    "slug":"sedona",
+    "rank":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.7037902,40.4167754 ]
+    },
+    "properties": {
+    "name":"Madrid",
+    "slug":"madrid",
+    "rank":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3636619,43.6807402 ]
+    },
+    "properties": {
+    "name":"Ketchum, Idaho",
+    "slug":"ketchum",
+    "rank":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.536101,1.9772276 ]
+    },
+    "properties": {
+    "name":"Maldives",
+    "slug":"maldives",
+    "rank":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3463791,39.3087714 ]
+    },
+    "properties": {
+    "name":"Calabria, Italy",
+    "slug":"calabria",
+    "rank":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.5593676,37.020001 ]
+    },
+    "properties": {
+    "name":"Antequera, Spain",
+    "slug":"antequera",
+    "rank":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.8636111,68.4711111 ]
+    },
+    "properties": {
+    "name":"Lofoten Islands, Norway",
+    "slug":"lofoten",
+    "rank":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.616672,-38.416097 ]
+    },
+    "properties": {
+    "name":"Iberá Wetlands, Argentina",
+    "slug":"iberawetlands",
+    "rank":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.901542,45.1286455 ]
+    },
+    "properties": {
+    "name":"Istria, Croatia",
+    "slug":"istria",
+    "rank":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.3712796,16.5211599 ]
+    },
+    "properties": {
+    "name":"Placencia, Belize",
+    "slug":"portland",
+    "rank":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 85.506503,28.2163875 ]
+    },
+    "properties": {
+    "name":"Langtang Region, Nepal",
+    "slug":"langtang",
+    "rank":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.035717,39.8205136 ]
+    },
+    "properties": {
+    "name":"Bozcaada, Turkey",
+    "slug":"bozcaada",
+    "rank":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.80249,33.5206608 ]
+    },
+    "properties": {
+    "name":"Birmingham, Alabama",
+    "slug":"birmingham",
+    "rank":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.9445799,-13.3441354 ]
+    },
+    "properties": {
+    "name":"Sacred Valley, Peru",
+    "slug":"sacredvalley",
+    "rank":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.158776,0.3969873 ]
+    },
+    "properties": {
+    "name":"Laikipia, Kenya",
+    "slug":"laikipia",
+    "rank":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 129.0756416,35.1795543 ]
+    },
+    "properties": {
+    "name":"Busan, South Korea",
+    "slug":"busan",
+    "rank":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6764816,45.5230622 ]
+    },
+    "properties": {
+    "name":"Portland, Oregon",
+    "slug":"puertoescondido",
+    "rank":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.040235,47.497912 ]
+    },
+    "properties": {
+    "name":"Budapest, Hungary",
+    "slug":"budapest",
+    "rank":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9184261,40.81767 ]
+    },
+    "properties": {
+    "name":"South Bronx, New York",
+    "slug":"southbronx",
+    "rank":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128,26.5 ]
+    },
+    "properties": {
+    "name":"Ryukyu Islands, Japan",
+    "slug":"ryukyu",
+    "rank":52
+    }
+  }
+]
+})

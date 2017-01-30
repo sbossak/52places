@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="google-site-verification" content=""/>
+    <meta property="og:url" content="http://scottbossak.com/52places/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="The New York Times 52 Places Mapped" />
+    <meta property="og:description" content="52 Places from 2012-2017" />
+    <meta property="og:image" content="" />
+
+    <title>The New York Times 52 Places Mapped</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link href="css/css.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+
+      <div id="header" class="col-sm-3 col-md-4 panel">
+        <div class="row">
+          <div id="nav_container">
+            <h2><em>The New York Times</em><br>52 Places Mapped</h2>
+            
+            <a data-toggle="modal" data-target="#myModal">About</a>
+
+            <ul id="nav_list" class="nav nav-pills nav-justified">
+              <li><a id="2012" class="year_link badge">2012</a></li>
+              <li><a id="2013" class="year_link badge">2013</a></li>
+              <li><a id="2014" class="year_link badge">2014</a></li>
+              <li><a id="2015" class="year_link badge">2015</a></li>
+              <li><a id="2016" class="year_link badge">2016</a></li>
+              <li><a id="2017" class="year_link badge">2017</a></li>
+            </ul>
+          </div>
+        </div>
+        <!-- End Row -->
+
+        <div id="list_row" class="row">
+
+          <a id="show_list" data-toggle="collapse" href="#locations_container" aria-expanded="false" aria-controls="locations_container">List <span class="caret"></span></a>
+
+          <div id="locations_container" class="collapse">
+            <ol id="locations_list">
+            </ol>
+          </div>
+
+        </div>
+        <!-- End Row -->
+
+      </div>
+    </div>
+    <div id="map"></div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+      <div class="modal-dialog modal-sm" role="document">
+        <div class="modal-content">
+            <h2>About <em>52 Places Mapped</em></h2>
+            <p>Every December <em>The New York Times</em> publishes a wanderlust guide of 52 places to visit.</p>
+        </div>
+      </div>
+    </div>
+    <!-- End Modal -->
+    <script src="js/script.js"></script>
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAYGzf8Hc70nV4S7H3QA_MiiirDT_0yYa8&callback=initMap">
+    </script>
+
+  </body>
+</html>

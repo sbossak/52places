@@ -1,0 +1,73 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+#header {
+  align-content: center;
+  position: fixed;
+  z-index: 100;
+  margin-top: 20px;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+h2 {
+  font-size: 1.5em;
+  font-family: 'Montserrat', sans-serif;
+}
+#nav_container {
+  padding: 0 5px 5px 5px;
+  /*margin: 10px 0 0 0;*/
+}
+#map {
+ height: 100%;
+ width: 100%;
+}
+#locations_container {
+  max-height: 210px;
+  overflow-y: scroll;
+  text-align: left;
+}
+#list_row {
+  margin-bottom: 5px;
+}
+.locationListItem {  }
+.nav>li>a:focus,
+.nav>li>a:hover {
+  color: black;
+  background-color: #ecf0f1;
+}
+li .badge {
+  color: black;
+  background-color: transparent;
+}
+li .active {
+  color: white;
+}
+li .active2012 {
+  /* Green */
+  background-color: #2ecc71;
+}
+li .active2013 {
+  /*Yellow*/
+  background-color: #f1c40f;
+}
+li .active2014 {
+  /*Orange*/
+  background-color: #e67e22;
+}
+li .active2015 {
+  /*Red*/
+  background-color: #e74c3c;
+}
+li .active2016 {
+  /*Purple*/
+  background-color: #9b59b6;
+}
+li .active2017 {
+  /*Blue*/
+  background-color: #3498db;
+}

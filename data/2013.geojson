@@ -1,0 +1,511 @@
+eqfeed_callback({
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -43.1728965,-22.9068467 ]
+    },
+    "properties": {
+    "name":"Rio de Janeiro",
+    "rank":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.36978,43.296482 ]
+    },
+    "properties": {
+    "name":"Marseille, France",
+    "rank":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.207229,12.865416 ]
+    },
+    "properties": {
+    "name":"Nicaragua",
+    "rank":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1869644,5.6037168 ]
+    },
+    "properties": {
+    "name":"Accra, Ghana",
+    "rank":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.433601,27.514162 ]
+    },
+    "properties": {
+    "name":"Bhutan",
+    "rank":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.8951679,52.3702157 ]
+    },
+    "properties": {
+    "name":"Amsterdam",
+    "rank":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "name":"Houston",
+    "rank":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8000037,49.0781415 ]
+    },
+    "properties": {
+    "name":"Rossland, British Columbia",
+    "rank":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.2090212,28.6139391 ]
+    },
+    "properties": {
+    "name":"New Delhi",
+    "rank":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.9783589,41.0082376 ]
+    },
+    "properties": {
+    "name":"Istanbul",
+    "rank":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819836,1.352083 ]
+    },
+    "properties": {
+    "name":"Singapore",
+    "rank":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.37439,42.708678 ]
+    },
+    "properties": {
+    "name":"Montenegro",
+    "rank":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4864619,45.7276194 ]
+    },
+    "properties": {
+    "name":"White Salmon River, Wash.",
+    "rank":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4411136,43.1729478 ]
+    },
+    "properties": {
+    "name":"Hvar, Croatia",
+    "rank":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.846656,46.862496 ]
+    },
+    "properties": {
+    "name":"Mongolia",
+    "rank":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.6658568,19.5429151 ]
+    },
+    "properties": {
+    "name":"The Big Island, Hawaii",
+    "rank":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.774017,12.879721 ]
+    },
+    "properties": {
+    "name":"Philippines",
+    "rank":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.6849935,44.1349211 ]
+    },
+    "properties": {
+    "name":"Vernazza, Italy",
+    "rank":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4412773,-16.2576963 ]
+    },
+    "properties": {
+    "name":"The Kimberley, Australia",
+    "rank":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.258754,38.471318 ]
+    },
+    "properties": {
+    "name":"Ningxia, China",
+    "rank":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8693043,44.1247154 ]
+    },
+    "properties": {
+    "name":"The Adirondacks, N.Y.",
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7522454,59.9138688 ]
+    },
+    "properties": {
+    "name":"Oslo, Norway",
+    "rank":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.4230789,-34.0257608 ]
+    },
+    "properties": {
+    "name":"Constantia, South Africa",
+    "rank":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.881275,55.169438 ]
+    },
+    "properties": {
+    "name":"Lithuania",
+    "rank":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.696906,42.3439925 ]
+    },
+    "properties": {
+    "name":"Burgos, Spain",
+    "rank":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.83183,50.42893 ]
+    },
+    "properties": {
+    "name":"Lens, France",
+    "rank":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.618593,35.942907 ]
+    },
+    "properties": {
+    "name":"Changbaishan, China",
+    "rank":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.6291053,41.1579438 ]
+    },
+    "properties": {
+    "name":"Porto, Portugal",
+    "rank":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.590149,18.220833 ]
+    },
+    "properties": {
+    "name":"Puerto Rico",
+    "rank":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.0135929,9.7318753 ]
+    },
+    "properties": {
+    "name":"Koh Phangan, Thailand",
+    "rank":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 79.7596142,8.2295281 ]
+    },
+    "properties": {
+    "name":"Kalpitiya, Sri Lanka",
+    "rank":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7624282,43.4799291 ]
+    },
+    "properties": {
+    "name":"Jackson Hole, Wyo.",
+    "rank":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.6647101,13.82031 ]
+    },
+    "properties": {
+    "name":"Bangkok",
+    "rank":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1980471,50.2246249 ]
+    },
+    "properties": {
+    "name":"The Jeseniky, Czech Republic",
+    "rank":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 175.1080146,-36.8019237 ]
+    },
+    "properties": {
+    "name":"Waiheke, New Zealand",
+    "rank":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.0943377,20.7098786 ]
+    },
+    "properties": {
+    "name":"Yucatan, Mexico",
+    "rank":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6482074,47.6304216 ]
+    },
+    "properties": {
+    "name":"Charlevoix, Quebec",
+    "rank":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.232266,46.0727345 ]
+    },
+    "properties": {
+    "name":"Pecs, Hungary",
+    "rank":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.827659,-0.228021 ]
+    },
+    "properties": {
+    "name":"Republic of Congo",
+    "rank":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.24389,53.41291 ]
+    },
+    "properties": {
+    "name":"Ireland",
+    "rank":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2021494,43.3077339 ]
+    },
+    "properties": {
+    "name":"Getaria, Spain",
+    "rank":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.4129396,12.1891921 ]
+    },
+    "properties": {
+    "name":"Mergui Islands, Myanmar",
+    "rank":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.523613,-51.796253 ]
+    },
+    "properties": {
+    "name":"The Falkland Islands",
+    "rank":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0368707,38.9071923 ]
+    },
+    "properties": {
+    "name":"Washington, D.C.",
+    "rank":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.5898434,33.5731104 ]
+    },
+    "properties": {
+    "name":"Casablanca, Morocco",
+    "rank":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3522219,48.856614 ]
+    },
+    "properties": {
+    "name":"Paris",
+    "rank":46
+    }
+  }
+]
+})

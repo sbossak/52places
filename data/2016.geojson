@@ -1,0 +1,629 @@
+eqfeed_callback({
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.133208,19.4326077 ]
+    },
+    "properties": {
+    "name":"Mexico City, Mexico",
+    "slug":"mexicocity",
+    "rank":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.57918,44.837789 ]
+    },
+    "properties": {
+    "name":"Bordeaux. France",
+    "slug":"bordeaux",
+    "rank":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.375416,35.937496 ]
+    },
+    "properties": {
+    "name":"Malta",
+    "slug":"malta",
+    "rank":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -64.713192,18.3480095 ]
+    },
+    "properties": {
+    "name":"Coral Bay, St. John",
+    "slug":"coralbay",
+    "rank":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.5387091,46.978965 ]
+    },
+    "properties": {
+    "name":"Theodore Roosevelt National Park, North Dakota",
+    "slug":"trnp",
+    "rank":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.529562,-18.665695 ]
+    },
+    "properties": {
+    "name":"Mozambique",
+    "slug":"mozambique",
+    "rank":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3831843,43.653226 ]
+    },
+    "properties": {
+    "name":"Toronto, Canada",
+    "slug":"toronto",
+    "rank":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.3773438,24.453884 ]
+    },
+    "properties": {
+    "name":"Abu Dhabi, United Arab Emirates",
+    "slug":"abudhabi",
+    "rank":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.5957692,55.9902572 ]
+    },
+    "properties": {
+    "name":"Skane, Sweden",
+    "slug":"skane",
+    "rank":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.7066289,22.6188131 ]
+    },
+    "properties": {
+    "name":"Viñales, Cuba",
+    "slug":"vinales",
+    "rank":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.551,16.265 ]
+    },
+    "properties": {
+    "name":"Guadeloupe",
+    "slug":"guadeloupe",
+    "rank":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.4979729,40.6460622 ]
+    },
+    "properties": {
+    "name":"Park City, Utah",
+    "slug":"parkcity",
+    "rank":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.203921,56.162939 ]
+    },
+    "properties": {
+    "name":"Aarhus, Denmark",
+    "slug":"aarhus",
+    "rank":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.303215,38.324311 ]
+    },
+    "properties": {
+    "name":"Cesme, Turkey",
+    "slug":"cesme",
+    "rank":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8407902,42.8003065 ]
+    },
+    "properties": {
+    "name":"Road of the Seven Lakes, Argentina",
+    "slug":"rotsl",
+    "rank":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.15507,30.274085 ]
+    },
+    "properties": {
+    "name":"Hangzhou, China",
+    "slug":"Hangzhou",
+    "rank":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.888644,42.9297182 ]
+    },
+    "properties": {
+    "name":"Korcula Island,Croatia",
+    "slug":"korcula",
+    "rank":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.9812313,43.318334 ]
+    },
+    "properties": {
+    "name":"San Sebastián, Spain",
+    "slug":"sansebastian",
+    "rank":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.5107708,-0.0649884 ]
+    },
+    "properties": {
+    "name":"Virunga National Park, Democratic Republic of the Congo",
+    "slug":"vnp",
+    "rank":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6680863,42.9633599 ]
+    },
+    "properties": {
+    "name":"Grand Rapids, Michigan",
+    "slug":"grandrapids",
+    "rank":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -54.5430357,-34.593287 ]
+    },
+    "properties": {
+    "name":"Garzón, Uruguay",
+    "slug":"garzon",
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2603097,53.3498053 ]
+    },
+    "properties": {
+    "name":"Dublin, Ireland",
+    "slug":"dublin",
+    "rank":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.2265101,23.4463619 ]
+    },
+    "properties": {
+    "name":"Todos Santos, Mexico",
+    "slug":"todossantos",
+    "rank":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.6568942,11.1271225 ]
+    },
+    "properties": {
+    "name":"Tamil Nadu, India",
+    "slug":"tamilnadu",
+    "rank":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.536765,46.5613135 ]
+    },
+    "properties": {
+    "name":"Vaud, Switzerland",
+    "slug":"vaud",
+    "rank":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.0368707,38.9071923 ]
+    },
+    "properties": {
+    "name":"Washington, DC",
+    "slug":"washington",
+    "rank":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6068371,49.1950602 ]
+    },
+    "properties": {
+    "name":"Brno, Czech Republic",
+    "slug":"brno",
+    "rank":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4703868,38.5052429 ]
+    },
+    "properties": {
+    "name":"Saint Helena",
+    "slug":"sainthelena",
+    "rank":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.1734035,41.3850639 ]
+    },
+    "properties": {
+    "name":"Barcelona, Spain",
+    "slug":"barcelona",
+    "rank":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.4583132,11.9404192 ]
+    },
+    "properties": {
+    "name":"Dalat, Vietnam",
+    "slug":"dalat",
+    "rank":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.6868565,45.070312 ]
+    },
+    "properties": {
+    "name":"Turin, Italy",
+    "slug":"turin",
+    "rank":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.266811,21.5305108 ]
+    },
+    "properties": {
+    "name":"Isla Holbox, Mexico",
+    "slug":"islaholbox",
+    "rank":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.4128343,41.8239891 ]
+    },
+    "properties": {
+    "name":"Providence, Rhode Island",
+    "slug":"providence",
+    "rank":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.451526,51.165691 ]
+    },
+    "properties": {
+    "name":"Mosel wine country, Germany",
+    "slug":"mosel",
+    "rank":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.3899769,37.370474 ]
+    },
+    "properties": {
+    "name":"Pyeongchang, South Korea",
+    "slug":"pyeongchang",
+    "rank":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.601487,47.2537414 ]
+    },
+    "properties": {
+    "name":"Tyrol, Austria",
+    "slug":"tyrol",
+    "rank":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.358512,48.0793589 ]
+    },
+    "properties": {
+    "name":"Colmar, France",
+    "slug":"colmar",
+    "rank":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.4511664,40.5255926 ]
+    },
+    "properties": {
+    "name":"Kansai, Japan",
+    "slug":"kansai",
+    "rank":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0580643,37.6712779 ]
+    },
+    "properties": {
+    "name":"East Bay, California",
+    "slug":"eastbay",
+    "rank":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.3944629,46.1911105 ]
+    },
+    "properties": {
+    "name":"Île de Ré, France",
+    "slug":"idr",
+    "rank":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.2480486,9.8144378 ]
+    },
+    "properties": {
+    "name":"East Coast, Sri Lanka",
+    "slug":"eastcoast",
+    "rank":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7407578,37.4497702 ]
+    },
+    "properties": {
+    "name":"Rosine, Kentucky",
+    "slug":"rosine",
+    "rank":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.4212655,36.721261 ]
+    },
+    "properties": {
+    "name":"Málaga, Spain",
+    "slug":"malaga",
+    "rank":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.706301,26.599194 ]
+    },
+    "properties": {
+    "name":"Guizhou, China",
+    "slug":"Guizhou",
+    "rank":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.8921668,11.5448729 ]
+    },
+    "properties": {
+    "name":"Phnom Penh, Cambodia",
+    "slug":"phnompenh",
+    "rank":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.3371889,38.6105426 ]
+    },
+    "properties": {
+    "name":"St. Louis, Missouri",
+    "slug":"stlouis",
+    "rank":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.9444191,40.6400629 ]
+    },
+    "properties": {
+    "name":"Salonika, Greece",
+    "slug":"salonika",
+    "rank":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.020623,30.3094622 ]
+    },
+    "properties": {
+    "name":"Marfa, Texas",
+    "slug":"marfa",
+    "rank":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2630142,-8.4977259 ]
+    },
+    "properties": {
+    "name":"Ubud, Indonesia",
+    "slug":"ubud",
+    "rank":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.2093921,48.8013991 ]
+    },
+    "properties": {
+    "name":"The Southern Gulf Islands, British Columbia",
+    "slug":"gulfislands",
+    "rank":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 151.2092955,-33.8688197 ]
+    },
+    "properties": {
+    "name":"Sydney, Australia",
+    "slug":"sydney",
+    "rank":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6698286,32.4315813 ]
+    },
+    "properties": {
+    "name":"Beaufort, South Carolina",
+    "slug":"beaufort",
+    "rank":52
+    }
+  }
+]
+})

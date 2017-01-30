@@ -1,0 +1,629 @@
+eqfeed_callback({
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1859243,45.4654219 ]
+    },
+    "properties": {
+    "name":"Milan, Italy",
+    "slug":"milan",
+    "rank":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.781167,21.521757 ]
+    },
+    "properties": {
+    "name":"Cuba",
+    "slug":"cuba",
+    "rank":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.1652215,39.9525839 ]
+    },
+    "properties": {
+    "name":"Philadelphia",
+    "slug":"philadelphia",
+    "rank":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.5884542,44.4279684 ]
+    },
+    "properties": {
+    "name":"Yellowstone National Park",
+    "slug":"yellowstone",
+    "rank":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.632523,-33.5305675 ]
+    },
+    "properties": {
+    "name":"Elqui Valley, Chile",
+    "slug":"elquivalley",
+    "rank":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.819836,1.352083 ]
+    },
+    "properties": {
+    "name":"Singapore",
+    "slug":"singapore",
+    "rank":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.0218404,-29.8586804 ]
+    },
+    "properties": {
+    "name":"Durban, South Africa",
+    "slug":"durban",
+    "rank":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.588653,-16.290154 ]
+    },
+    "properties": {
+    "name":"Bolivia",
+    "slug":"bolivia",
+    "rank":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.911806,61.892635 ]
+    },
+    "properties": {
+    "name":"Faroe Islands",
+    "slug":"faroe",
+    "rank":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.745275,41.608635 ]
+    },
+    "properties": {
+    "name":"Macedonia",
+    "slug":"macedonia",
+    "rank":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.5812119,6.244203 ]
+    },
+    "properties": {
+    "name":"Medellín, Colombia",
+    "slug":"medellin",
+    "rank":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.1971628,13.2528179 ]
+    },
+    "properties": {
+    "name":"St. Vincent and the Grenadines",
+    "slug":"stvincent",
+    "rank":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3792365,28.5383355 ]
+    },
+    "properties": {
+    "name":"Orlando, Florida",
+    "slug":"orlando",
+    "rank":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.154857,-19.015438 ]
+    },
+    "properties": {
+    "name":"Zimbabwe",
+    "slug":"zimbabwe",
+    "rank":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.069592,49.34933 ]
+    },
+    "properties": {
+    "name":"Burgundy, France",
+    "slug":"burgundy",
+    "rank":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0006328,40.7230084 ]
+    },
+    "properties": {
+    "name":"Lower Manhattan, New York",
+    "slug":"manhattan",
+    "rank":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.888822,-6.369028 ]
+    },
+    "properties": {
+    "name":"Tanzania",
+    "slug":"tanzania",
+    "rank":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6931115,41.239421 ]
+    },
+    "properties": {
+    "name":"The North Coast of Peru",
+    "slug":"peru",
+    "rank":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.8317158,40.4849769 ]
+    },
+    "properties": {
+    "name":"Steamboat Springs, Colorado",
+    "slug":"steamboatsprings",
+    "rank":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.975413,21.4735329 ]
+    },
+    "properties": {
+    "name":"Oman",
+    "slug":"oman",
+    "rank":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.6943605,41.49932 ]
+    },
+    "properties": {
+    "name":"Cleveland, Ohio",
+    "slug":"cleveland",
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.771797,7.873054 ]
+    },
+    "properties": {
+    "name":"Sri Lanka",
+    "slug":"srilanka",
+    "rank":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0715323,29.9510658 ]
+    },
+    "properties": {
+    "name":"New Orleans, Louisiana",
+    "slug":"neworleans",
+    "rank":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.6007456,-34.9284989 ]
+    },
+    "properties": {
+    "name":"Adelaide, Australia",
+    "slug":"adelaide",
+    "rank":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.023407,43.0015544 ]
+    },
+    "properties": {
+    "name":"Republic of Georgia",
+    "slug":"georgia",
+    "rank":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2426305,53.4807593 ]
+    },
+    "properties": {
+    "name":"Manchester, England",
+    "slug":"manchester",
+    "rank":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.5349087,19.8301251 ]
+    },
+    "properties": {
+    "name":"Campeche, Mexico",
+    "slug":"campeche",
+    "rank":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -42.604303,71.706936 ]
+    },
+    "properties": {
+    "name":"Greenland",
+    "slug":"greenland",
+    "rank":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.95555,-6.314993 ]
+    },
+    "properties": {
+    "name":"Papua New Guinea",
+    "slug":"papuanewguinea",
+    "rank":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3153096,44.0581728 ]
+    },
+    "properties": {
+    "name":"Bend, Oregon",
+    "slug":"bend",
+    "rank":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.8498129,33.9715904 ]
+    },
+    "properties": {
+    "name":"Rabat, Morocco",
+    "slug":"rabat",
+    "rank":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.1558121,49.7016339 ]
+    },
+    "properties": {
+    "name":"Squamish, Canada",
+    "slug":"squamish",
+    "rank":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.9779692,37.566535 ]
+    },
+    "properties": {
+    "name":"Seoul, South Korea",
+    "slug":"seoul",
+    "rank":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.5132397,32.6650802 ]
+    },
+    "properties": {
+    "name":"St. Kitts",
+    "slug":"stkitts",
+    "rank":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 133.6375314,33.7432238 ]
+    },
+    "properties": {
+    "name":"Shikoku, Japan",
+    "slug":"shikoku",
+    "rank":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4936282,29.4241219 ]
+    },
+    "properties": {
+    "name":"San Antonio",
+    "slug":"sanantonio",
+    "rank":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.7024376,23.0636562 ]
+    },
+    "properties": {
+    "name":"San José del Cabo, Mexico",
+    "slug":"sanjose",
+    "rank":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.8007077,40.3133521 ]
+    },
+    "properties": {
+    "name":"Alentejo, Portugal",
+    "slug":"alentejo",
+    "rank":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8645734,42.2173102 ]
+    },
+    "properties": {
+    "name":"The Catskills, New York",
+    "slug":"catskills",
+    "rank":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.2079809,46.8138783 ]
+    },
+    "properties": {
+    "name":"Quebec City, Canada",
+    "slug":"quebeccity",
+    "rank":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.5449226,46.1904614 ]
+    },
+    "properties": {
+    "name":"Canton Valais, Switzerland",
+    "slug":"zermatta",
+    "rank":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.6370411,48.8499198 ]
+    },
+    "properties": {
+    "name":"Île-de-France",
+    "slug":"paris",
+    "rank":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.2021667,16.0544068 ]
+    },
+    "properties": {
+    "name":"Danang, Vietnam",
+    "slug":"danang",
+    "rank":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.066801,30.572816 ]
+    },
+    "properties": {
+    "name":"Chengdu, China",
+    "slug":"chengdu",
+    "rank":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1300455,25.790654 ]
+    },
+    "properties": {
+    "name":"Miami Beach, Florida",
+    "slug":"miamibeach",
+    "rank":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.473701,31.230416 ]
+    },
+    "properties": {
+    "name":"Shanghai",
+    "slug":"shanghai",
+    "rank":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.992775,36.1539816 ]
+    },
+    "properties": {
+    "name":"Tulsa, Oklahoma",
+    "slug":"tulsa",
+    "rank":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4963655,41.9027835 ]
+    },
+    "properties": {
+    "name":"Rome, Italy",
+    "slug":"rome",
+    "rank":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.3724247,39.4752765 ]
+    },
+    "properties": {
+    "name":"Cáceres, Spain",
+    "slug":"caceres",
+    "rank":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4545,36.5959999 ]
+    },
+    "properties": {
+    "name":"Taos Ski Valley, New Mexico",
+    "slug":"taos",
+    "rank":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.8670924,40.4092617 ]
+    },
+    "properties": {
+    "name":"Baku, Azerbaijan",
+    "slug":"baku",
+    "rank":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.63955,36.199913 ]
+    },
+    "properties": {
+    "name":"Kas, Turkey",
+    "slug":"kas",
+    "rank":52
+    }
+  }
+]
+})

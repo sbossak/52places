@@ -1,0 +1,500 @@
+eqfeed_callback({
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.782127,8.537981 ]
+    },
+    "properties": {
+    "name":"Panama",
+    "rank":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.938379,60.1698557 ]
+    },
+    "properties": {
+    "name":"Helsinki, Finland",
+    "rank":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.955974,21.916221 ]
+    },
+    "properties": {
+    "name":"Myanmar",
+    "rank":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1277583,51.5073509 ]
+    },
+    "properties": {
+    "name":"London",
+    "rank":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2711137,37.8043637 ]
+    },
+    "properties": {
+    "name":"Oakland, California",
+    "rank":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.6917064,35.6894875 ]
+    },
+    "properties": {
+    "name":"Tokyo",
+    "rank":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.888822,-6.369028 ]
+    },
+    "properties": {
+    "name":"Tanzania",
+    "rank":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5437277,-33.4092109 ]
+    },
+    "properties": {
+    "name":"Chilean Patagonia",
+    "rank":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 91.17211,29.652491 ]
+    },
+    "properties": {
+    "name":"Lhasa, Tibet",
+    "rank":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3665956,23.1135925 ]
+    },
+    "properties": {
+    "name":"Havana, Cuba",
+    "rank":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.6173,55.755826 ]
+    },
+    "properties": {
+    "name":"Moscow, Russia",
+    "rank":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.251806,55.864237 ]
+    },
+    "properties": {
+    "name":"Glasgow, UK",
+    "rank":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.2061996,19.0412967 ]
+    },
+    "properties": {
+    "name":"Puebla, Mexico",
+    "rank":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1610838,32.715738 ]
+    },
+    "properties": {
+    "name":"San Diego, USA",
+    "rank":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.1839024,20.9100512 ]
+    },
+    "properties": {
+    "name":"Halong Bay, Vietnam",
+    "rank":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.2558136,43.7695604 ]
+    },
+    "properties": {
+    "name":"Florence, Italy",
+    "rank":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.0600962,29.9883841 ]
+    },
+    "properties": {
+    "name":"St. Vincent",
+    "rank":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.1103651,30.3186548 ]
+    },
+    "properties": {
+    "name":"Moganshan, China",
+    "rank":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.890401,52.486243 ]
+    },
+    "properties": {
+    "name":"Birmingham, UK",
+    "rank":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.031816,29.221854 ]
+    },
+    "properties": {
+    "name":"Space",
+    "rank":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.2710833,10.8505159 ]
+    },
+    "properties": {
+    "name":"Kerala, India",
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -44.7204284,-23.2200216 ]
+    },
+    "properties": {
+    "name":"Paraty, Brazil",
+    "rank":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.2317225,10.7290832 ]
+    },
+    "properties": {
+    "name":"Koh Rong, Cambodia",
+    "rank":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3738189,48.2081743 ]
+    },
+    "properties": {
+    "name":"Vienna, Austria",
+    "rank":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3096801,35.0456297 ]
+    },
+    "properties": {
+    "name":"Chattanooga, Tenn",
+    "rank":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -8.0582893,31.6330989 ]
+    },
+    "properties": {
+    "name":"Dakhla, Morocco",
+    "rank":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.536101,1.9772276 ]
+    },
+    "properties": {
+    "name":"Maldives",
+    "rank":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.2500868,2.189594 ]
+    },
+    "properties": {
+    "name":"Malacca, Malaysia",
+    "rank":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -7.930834,37.0179538 ]
+    },
+    "properties": {
+    "name":"The Algarve, Portugal",
+    "rank":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.1762494,39.1446803 ]
+    },
+    "properties": {
+    "name":"Tahoe, California",
+    "rank":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.7837117,52.1306607 ]
+    },
+    "properties": {
+    "name":"Wales, UK",
+    "rank":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.071389,-75.250973 ]
+    },
+    "properties": {
+    "name":"Antartica",
+    "rank":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.290275,1.373333 ]
+    },
+    "properties": {
+    "name":"Uganda",
+    "rank":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.16558,48.379433 ]
+    },
+    "properties": {
+    "name":"Ukraine",
+    "rank":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.4043652,19.2532818 ]
+    },
+    "properties": {
+    "name":"Samaná Peninsula, Dominican Republic",
+    "rank":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0944238,42.6506606 ]
+    },
+    "properties": {
+    "name":"Dubrovnik, Croatia",
+    "rank":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9265732,-42.6239686 ]
+    },
+    "properties": {
+    "name":"Chiloé Island, Chile",
+    "rank":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.238414,30.585164 ]
+    },
+    "properties": {
+    "name":"Jordan",
+    "rank":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.47371,46.30762 ]
+    },
+    "properties": {
+    "name":"Crans-Montana, Switzerland",
+    "rank":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.876716,43.610769 ]
+    },
+    "properties": {
+    "name":"Montpellier, France",
+    "rank":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6486251,9.9797332 ]
+    },
+    "properties": {
+    "name":"Nosara, Costa Rica",
+    "rank":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.766922,35.907757 ]
+    },
+    "properties": {
+    "name":"South Korea",
+    "rank":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.4559833,51.7592485 ]
+    },
+    "properties": {
+    "name":"Lodz, Poland",
+    "rank":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6663653,61.0917012 ]
+    },
+    "properties": {
+    "name":"Dalarna, Sweden",
+    "rank":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.836628,44.0541257 ]
+    },
+    "properties": {
+    "name":"Portovenere, Italy",
+    "rank":45
+    }
+  }
+]
+})

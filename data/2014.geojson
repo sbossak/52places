@@ -1,0 +1,629 @@
+eqfeed_callback({
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.4240553,-33.9248685 ]
+    },
+    "properties": {
+    "name":"Cape Town, South Africa",
+    "slug":"calgary",
+    "rank":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 172.6362254,-43.5320544 ]
+    },
+    "properties": {
+    "name":"Christchurch, New Zealand",
+    "slug":"christchurch",
+    "rank":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8640576,38.0194037 ]
+    },
+    "properties": {
+    "name":"North Coast, California",
+    "slug":"ncalifornia",
+    "rank":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6185499,41.8873246 ]
+    },
+    "properties": {
+    "name":"Albanian Coast",
+    "slug":"albania",
+    "rank":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2467693,34.040713 ]
+    },
+    "properties": {
+    "name":"Downtown Los Angeles",
+    "slug":"losangeles",
+    "rank":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.49041,-22.95764 ]
+    },
+    "properties": {
+    "name":"Namibia",
+    "slug":"namibia",
+    "rank":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.183406,-1.831239 ]
+    },
+    "properties": {
+    "name":"Ecuador",
+    "slug":"ecuador",
+    "rank":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.5983958,17.4659391 ]
+    },
+    "properties": {
+    "name":"Quang Binh, Vietnam",
+    "slug":"vietnam",
+    "rank":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.8604572,-31.9505269 ]
+    },
+    "properties": {
+    "name":"Perth, Australia",
+    "slug":"perth",
+    "rank":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4777325,51.9244201 ]
+    },
+    "properties": {
+    "name":"Rotterdam, Netherlands",
+    "slug":"rotterdam",
+    "rank":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.960515,23.69781 ]
+    },
+    "properties": {
+    "name":"Taiwan",
+    "slug":"taiwan",
+    "rank":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6821267,50.1109221 ]
+    },
+    "properties": {
+    "name":"Frankfurt, Germany",
+    "slug":"frankfurt",
+    "rank":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.7577605,8.9806034 ]
+    },
+    "properties": {
+    "name":"Addis Ababa, Ethiopia",
+    "slug":"addis",
+    "rank":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -32.4297369,-3.8576305 ]
+    },
+    "properties": {
+    "name":"Fernando de Noronha, Brazil",
+    "slug":"fernando",
+    "rank":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.7816016,36.1626638 ]
+    },
+    "properties": {
+    "name":"Nashville, Tennessee",
+    "slug":"nashville",
+    "rank":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.2026458,56.4906712 ]
+    },
+    "properties": {
+    "name":"Scotland",
+    "slug":"scotland",
+    "rank":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0708459,51.0486151 ]
+    },
+    "properties": {
+    "name":"Calgary, Alberta",
+    "slug":"belize",
+    "rank":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.1555804,24.3406606 ]
+    },
+    "properties": {
+    "name":"Ishigaki, Japan",
+    "slug":"ishigaki",
+    "rank":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.3505899,0.439988 ]
+    },
+    "properties": {
+    "name":"Laikipia Plateau, Kenya",
+    "slug":"kenya",
+    "rank":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.3694896,-7.7955798 ]
+    },
+    "properties": {
+    "name":"Yogyakarta, Indonesia",
+    "slug":"indonesia",
+    "rank":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.1762494,39.1446803 ]
+    },
+    "properties": {
+    "name":"Tahoe, California",
+    "slug":"tahoe",
+    "rank":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.76261,53.8108176 ]
+    },
+    "properties": {
+    "name":"Yorkshire, England",
+    "slug":"yorkshire",
+    "rank":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.2707828,25.2048493 ]
+    },
+    "properties": {
+    "name":"Dubai",
+    "slug":"dubai",
+    "rank":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.453389,41.902916 ]
+    },
+    "properties": {
+    "name":"The Vatican",
+    "slug":"vatican",
+    "rank":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.0524927,20.6839842 ]
+    },
+    "properties": {
+    "name":"Uruguayan Riviera",
+    "slug":"uruguay",
+    "rank":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 80.2707184,13.0826802 ]
+    },
+    "properties": {
+    "name":"Chennai, India",
+    "slug":"chennai",
+    "rank":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.491977,-4.679574 ]
+    },
+    "properties": {
+    "name":"Seychelles",
+    "slug":"seychelles",
+    "rank":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.9062835,8.0862997 ]
+    },
+    "properties": {
+    "name":"Krabi, Thailand",
+    "slug":"thailand",
+    "rank":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.8175387,39.1910983 ]
+    },
+    "properties": {
+    "name":"Aspen, Colorado",
+    "slug":"aspen",
+    "rank":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.40208,53.70556 ]
+    },
+    "properties": {
+    "name":"Highlands, Ireland",
+    "slug":"iceland",
+    "rank":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2630354,63.8258471 ]
+    },
+    "properties": {
+    "name":"Umea, Sweden",
+    "slug":"umea",
+    "rank":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.79715,22.008811 ]
+    },
+    "properties": {
+    "name":"Xishuangbanna, China",
+    "slug":"xishuangbanna",
+    "rank":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5935627,46.6339116 ]
+    },
+    "properties": {
+    "name":"Andermatt, Switzerland",
+    "slug":"andermatt",
+    "rank":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.158068,39.768403 ]
+    },
+    "properties": {
+    "name":"Indianapolis, Indiana",
+    "slug":"indianapolis",
+    "rank":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.0810233,16.3426513 ]
+    },
+    "properties": {
+    "name":"Mekong River",
+    "slug":"mekong",
+    "rank":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.7275388,37.9838096 ]
+    },
+    "properties": {
+    "name":"Athens, Greece",
+    "slug":"athens",
+    "rank":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1024076,18.2120807 ]
+    },
+    "properties": {
+    "name":"Barahona, Dominican Republic",
+    "slug":"atlanta",
+    "rank":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.0497346,33.8933885 ]
+    },
+    "properties": {
+    "name":"Arctic Circle",
+    "slug":"arcticcircle",
+    "rank":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.2083284,-6.792354 ]
+    },
+    "properties": {
+    "name":"Dar es Salaam, Tanzania",
+    "slug":"daressalaam",
+    "rank":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3883717,33.755711 ]
+    },
+    "properties": {
+    "name":"Downtown Atlanta, Georgia",
+    "slug":"atlanta",
+    "rank":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.4406411,36.9229021 ]
+    },
+    "properties": {
+    "name":"Nozawa Onsen, Japan",
+    "slug":"nozawa",
+    "rank":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.6650593,46.1005467 ]
+    },
+    "properties": {
+    "name":"Subotica, Serbia",
+    "slug":"subotica",
+    "rank":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.61591,56.033284 ]
+    },
+    "properties": {
+    "name":"Elsinore, Denmark",
+    "slug":"elsinore",
+    "rank":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.9496168,54.1992584 ]
+    },
+    "properties": {
+    "name":"Cartmel, England",
+    "slug":"capetown",
+    "rank":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 84.124008,28.394857 ]
+    },
+    "properties": {
+    "name":"Nepal",
+    "slug":"nepal",
+    "rank":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3738189,48.2081743 ]
+    },
+    "properties": {
+    "name":"Vienna",
+    "slug":"vienna",
+    "rank":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8448134,13.3670968 ]
+    },
+    "properties": {
+    "name":"Siem Reap, Cambodia",
+    "slug":"siemreap",
+    "rank":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3366066,46.305746 ]
+    },
+    "properties": {
+    "name":"Varazdin, Croatia",
+    "slug":"varazdin",
+    "rank":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6267345,27.7518284 ]
+    },
+    "properties": {
+    "name":"St. Petersburg, Florida",
+    "slug":"stpetersburg",
+    "rank":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.49765,17.189877 ]
+    },
+    "properties": {
+    "name":"Belize",
+    "slug":"barahona",
+    "rank":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 165.618042,-20.904305 ]
+    },
+    "properties": {
+    "name":"New Caledonia",
+    "slug":"newcaledonia",
+    "rank":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.0377388,43.0962143 ]
+    },
+    "properties": {
+    "name":"Niagara Falls, NY",
+    "slug":"niagara",
+    "rank":52
+    }
+  }
+]
+})
