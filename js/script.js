@@ -21,7 +21,7 @@ function loadData(element) {
   year = element.id;
 
   var script = document.createElement('script');
-  var url = 'http://scottbossak.com/52places/' + year + '.geojson'
+  var url = 'http://scottbossak.com/52places/data/' + year + '.geojson'
   script.src = url;
   document.getElementsByTagName('head')[0].appendChild(script);
   $(element).addClass('active active' + year);
