@@ -1,0 +1,629 @@
+eqfeed_callback({
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0715323,29.9510658 ]
+    },
+    "properties": {
+    "rank":1,
+    "slug":"neworleans",
+    "name":"New Orleans"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.297333,4.570868 ]
+    },
+    "properties": {
+    "rank":2,
+    "slug":"colombia",
+    "name":"Colombia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.9699878,40.6430766 ]
+    },
+    "properties": {
+    "rank":3,
+    "slug":"basilicata",
+    "name":"Basilicata"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.6568942,21.4691137 ]
+    },
+    "properties": {
+    "rank":4,
+    "slug":"caribbean",
+    "name":"The Caribbean"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.4371598,47.0136401 ]
+    },
+    "properties": {
+    "rank":5,
+    "slug":"vierwaldstattersee",
+    "name":"Vierwaldstättersee"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.7209587,36.2122857 ]
+    },
+    "properties": {
+    "rank":6,
+    "slug":"routeofparks",
+    "name":"Route of Parks"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.1555,37.8228 ]
+    },
+    "properties": {
+    "rank":7,
+    "slug":"gangwonprovince",
+    "name":"Gangwon Province"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5120196,39.1031182 ]
+    },
+    "properties": {
+    "rank":8,
+    "slug":"cincinnati",
+    "name":"Cincinnati"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 90.433601,27.514162 ]
+    },
+    "properties": {
+    "rank":9,
+    "slug":"bhutan",
+    "name":"Bhutan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.251806,55.864237 ]
+    },
+    "properties": {
+    "rank":10,
+    "slug":"glasgow",
+    "name":"Glasgow"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.6994004,23.6872594 ]
+    },
+    "properties": {
+    "rank":11,
+    "slug":"eastcapeloscabos",
+    "name":"East Cape and Corridor, Los Cabos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6951272,27.8300233 ]
+    },
+    "properties": {
+    "rank":12,
+    "slug":"topend",
+    "name":"Top End"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.990963,12.565679 ]
+    },
+    "properties": {
+    "rank":13,
+    "slug":"cambodiancoast",
+    "name":"Cambodian Coast"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.5,-14.5 ]
+    },
+    "properties": {
+    "rank":14,
+    "slug":"liuwaplain",
+    "name":"Liuwa Plain National Park"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.6121893,39.2903848 ]
+    },
+    "properties": {
+    "rank":15,
+    "slug":"baltimore",
+    "name":"Baltimore"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.0136071,58.595272 ]
+    },
+    "properties": {
+    "rank":16,
+    "slug":"estonia",
+    "name":"Estonia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.2861116,35.7518326 ]
+    },
+    "properties": {
+    "rank":17,
+    "slug":"gansu",
+    "name":"Gansu"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.6700458,52.1332144 ]
+    },
+    "properties": {
+    "rank":18,
+    "slug":"saskatoon",
+    "name":"Saskatoon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.9844589,37.3890924 ]
+    },
+    "properties": {
+    "rank":19,
+    "slug":"seville",
+    "name":"Seville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6820107,10.6267031 ]
+    },
+    "properties": {
+    "rank":20,
+    "slug":"peninsulapapagayo",
+    "name":"Peninsula Papagayo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2185144,36.6436731 ]
+    },
+    "properties": {
+    "rank":21,
+    "slug":"branson",
+    "name":"Branson"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.613081,0.18636 ]
+    },
+    "properties": {
+    "rank":22,
+    "slug":"saotomeprincipe",
+    "name":"São Tomé and Príncipe"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.4295953,53.6126505 ]
+    },
+    "properties": {
+    "rank":23,
+    "slug":"germanyswesternstates",
+    "name":"Germany’s Western States"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 178.065032,-17.713371 ]
+    },
+    "properties": {
+    "rank":24,
+    "slug":"fiji",
+    "name":"Fiji"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3096801,35.0456297 ]
+    },
+    "properties": {
+    "rank":25,
+    "slug":"chattanooga",
+    "name":"Chattanooga"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.7522454,59.9138688 ]
+    },
+    "properties": {
+    "rank":26,
+    "slug":"oslo",
+    "name":"Oslo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.04,36.1699999 ]
+    },
+    "properties": {
+    "rank":27,
+    "slug":"honshuwestcoast",
+    "name":"Honshu’s West Coast"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.6277769,43.676647 ]
+    },
+    "properties": {
+    "rank":28,
+    "slug":"arles",
+    "name":"Arles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.9238872,-6.4170243 ]
+    },
+    "properties": {
+    "rank":29,
+    "slug":"kuelap",
+    "name":"Kuélap"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9921849,39.7451998 ]
+    },
+    "properties": {
+    "rank":30,
+    "slug":"downtowndenver",
+    "name":"Downtown Denver"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.1044288,-1.9705786 ]
+    },
+    "properties": {
+    "rank":31,
+    "slug":"kigali",
+    "name":"Kigali"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.4489216,44.786568 ]
+    },
+    "properties": {
+    "rank":32,
+    "slug":"belgrade",
+    "name":"Belgrade"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.9706647,-41.4545196 ]
+    },
+    "properties": {
+    "rank":33,
+    "slug":"tasmania",
+    "name":"Tasmania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -19.020835,64.963051 ]
+    },
+    "properties": {
+    "rank":34,
+    "slug":"iceland",
+    "name":"Iceland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3397664,42.74754 ]
+    },
+    "properties": {
+    "rank":35,
+    "slug":"rogueriver",
+    "name":"Rogue River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 23.881275,55.169438 ]
+    },
+    "properties": {
+    "rank":36,
+    "slug":"lithuania",
+    "name":"Lithuania"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8783689,42.8864468 ]
+    },
+    "properties": {
+    "rank":37,
+    "slug":"buffalo",
+    "name":"Buffalo"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -68.1192936,-16.489689 ]
+    },
+    "properties": {
+    "rank":38,
+    "slug":"lapaz",
+    "name":"La Paz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4378005,50.0755381 ]
+    },
+    "properties": {
+    "rank":39,
+    "slug":"prague",
+    "name":"Prague"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.2186396,44.5967607 ]
+    },
+    "properties": {
+    "rank":40,
+    "slug":"emiliaromagna",
+    "name":"Emilia-Romagna"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5194096,28.3699769 ]
+    },
+    "properties": {
+    "rank":41,
+    "slug":"disneysprings",
+    "name":"Disney Springs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.61775,45.856876 ]
+    },
+    "properties": {
+    "rank":42,
+    "slug":"megeve",
+    "name":"Megève"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.7794179,30.7333148 ]
+    },
+    "properties": {
+    "rank":43,
+    "slug":"chandigarh",
+    "name":"Chandigarh"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3320708,47.6062095 ]
+    },
+    "properties": {
+    "rank":44,
+    "slug":"seattle",
+    "name":"Seattle"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 176.2497461,-38.1368478 ]
+    },
+    "properties": {
+    "rank":45,
+    "slug":"rotorua",
+    "name":"Rotorua"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.8779388,50.8492265 ]
+    },
+    "properties": {
+    "rank":46,
+    "slug":"ypres",
+    "name":"Ypres"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.8339543,35.7594651 ]
+    },
+    "properties": {
+    "rank":47,
+    "slug":"tangier",
+    "name":"Tangier"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.6623239,41.7820044 ]
+    },
+    "properties": {
+    "rank":48,
+    "slug":"riberadelduero",
+    "name":"Ribera del Duero"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.3077368,32.3792233 ]
+    },
+    "properties": {
+    "rank":49,
+    "slug":"montgomery",
+    "name":"Montgomery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.2888015,46.7340955 ]
+    },
+    "properties": {
+    "rank":50,
+    "slug":"sudtirol",
+    "name":"Südtirol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.58791,51.454513 ]
+    },
+    "properties": {
+    "rank":51,
+    "slug":"bristol",
+    "name":"Bristol"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.1346874,19.8833959 ]
+    },
+    "properties": {
+    "rank":52,
+    "slug":"luangprabang",
+    "name":"Luang Prabang"
+    }
+  }
+]
+})

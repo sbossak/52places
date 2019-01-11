@@ -1,0 +1,629 @@
+eqfeed_callback({
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.590149,18.220833 ]
+    },
+    "properties": {
+    "rank":1,
+    "slug":"puertorico",
+    "name":"Puerto Rico"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.460024,15.3350132 ]
+    },
+    "properties": {
+    "rank":2,
+    "slug":"hampi",
+    "name":"Hampi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.6981901,34.4208305 ]
+    },
+    "properties": {
+    "rank":3,
+    "slug":"santabarbara",
+    "name":"Santa Barbara"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.782127,8.537981 ]
+    },
+    "properties": {
+    "rank":4,
+    "slug":"panama",
+    "name":"Panama"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5819805,48.1351253 ]
+    },
+    "properties": {
+    "rank":5,
+    "slug":"munich",
+    "name":"Munich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.951925,29.557669 ]
+    },
+    "properties": {
+    "rank":6,
+    "slug":"eilat",
+    "name":"Eilat"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 134.0928459,34.6648872 ]
+    },
+    "properties": {
+    "rank":7,
+    "slug":"setouchiislands",
+    "name":"Setouchi Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.921747,57.0488195 ]
+    },
+    "properties": {
+    "rank":8,
+    "slug":"aalborg",
+    "name":"Aalborg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -25.6755944,37.7412488 ]
+    },
+    "properties": {
+    "rank":9,
+    "slug":"azores",
+    "name":"The Azores"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.314937,44.487146 ]
+    },
+    "properties": {
+    "rank":10,
+    "slug":"ontarioicecaves",
+    "name":"Ontario Ice Caves"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.2313648,44.119371 ]
+    },
+    "properties": {
+    "rank":11,
+    "slug":"zadar",
+    "name":"Zadar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7074571,37.2707022 ]
+    },
+    "properties": {
+    "rank":12,
+    "slug":"williamsburg",
+    "name":"Williamsburg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1398296,36.1699412 ]
+    },
+    "properties": {
+    "rank":13,
+    "slug":"lasvegas",
+    "name":"Las Vegas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.31972,38.3408299 ]
+    },
+    "properties": {
+    "rank":14,
+    "slug":"salvador",
+    "name":"Salvador"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.2021667,16.0544068 ]
+    },
+    "properties": {
+    "rank":15,
+    "slug":"danang",
+    "name":"Danang"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7332778,41.9169154 ]
+    },
+    "properties": {
+    "rank":16,
+    "slug":"costalegre",
+    "name":"Costalegre"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 171.449875,-42.094803 ]
+    },
+    "properties": {
+    "rank":17,
+    "slug":"paparoatrack",
+    "name":"Paparoa Track"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.1011931,40.7928393 ]
+    },
+    "properties": {
+    "rank":18,
+    "slug":"puglia",
+    "name":"Puglia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.0442995,49.1556982 ]
+    },
+    "properties": {
+    "rank":19,
+    "slug":"tatramountains",
+    "name":"Tatra Mountains"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0708459,51.0486151 ]
+    },
+    "properties": {
+    "rank":20,
+    "slug":"calgary",
+    "name":"Calgary"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.383612,53.1566678 ]
+    },
+    "properties": {
+    "rank":21,
+    "slug":"olkhonisland",
+    "name":"Olkhon Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.5861037,34.7303688 ]
+    },
+    "properties": {
+    "rank":22,
+    "slug":"huntsville",
+    "name":"Huntsville"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.523613,-51.796253 ]
+    },
+    "properties": {
+    "rank":23,
+    "slug":"falklandislands",
+    "name":"Falkland Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.094278,57.149717 ]
+    },
+    "properties": {
+    "rank":24,
+    "slug":"aberdeen",
+    "name":"Aberdeen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.152746,44.3514914 ]
+    },
+    "properties": {
+    "rank":25,
+    "slug":"golfoparadiso",
+    "name":"Golfo Paradiso"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.2423302,51.8308166 ]
+    },
+    "properties": {
+    "rank":26,
+    "slug":"dessau",
+    "name":"Dessau"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1815316,36.8064948 ]
+    },
+    "properties": {
+    "rank":27,
+    "slug":"tunis",
+    "name":"Tunis"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -15.310139,13.443182 ]
+    },
+    "properties": {
+    "rank":28,
+    "slug":"gambia",
+    "name":"Gambia"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.783647,42.649191 ]
+    },
+    "properties": {
+    "rank":29,
+    "slug":"northernrivers",
+    "name":"Northern Rivers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.7539167,54.210783 ]
+    },
+    "properties": {
+    "rank":30,
+    "slug":"frisianislands",
+    "name":"Frisian Islands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0059728,40.7127753 ]
+    },
+    "properties": {
+    "rank":31,
+    "slug":"newyorkcity",
+    "name":"New York City"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.282668,40.974675 ]
+    },
+    "properties": {
+    "rank":32,
+    "slug":"chongli",
+    "name":"Chongli"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.9289821,48.6330816 ]
+    },
+    "properties": {
+    "rank":33,
+    "slug":"orcasisland",
+    "name":"Orcas Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 64.585262,41.377491 ]
+    },
+    "properties": {
+    "rank":34,
+    "slug":"uzbekistan",
+    "name":"Uzbekistan"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.3220544,60.3912628 ]
+    },
+    "properties": {
+    "rank":35,
+    "slug":"vestlandet",
+    "name":"Vestlandet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.835659,45.764043 ]
+    },
+    "properties": {
+    "rank":36,
+    "slug":"lyon",
+    "name":"Lyon"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.5310398,25.2854473 ]
+    },
+    "properties": {
+    "rank":37,
+    "slug":"doha",
+    "name":"Doha"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6367455,41.6167547 ]
+    },
+    "properties": {
+    "rank":38,
+    "slug":"batumi",
+    "name":"Batumi"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.36978,43.296482 ]
+    },
+    "properties": {
+    "rank":39,
+    "slug":"marseille",
+    "name":"Marseille"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.2902839,43.0759678 ]
+    },
+    "properties": {
+    "rank":40,
+    "slug":"wyoming",
+    "name":"Wyoming"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2436849,34.0522342 ]
+    },
+    "properties": {
+    "rank":41,
+    "slug":"losangeles",
+    "name":"Los Angelas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -17.4676861,14.716677 ]
+    },
+    "properties": {
+    "rank":42,
+    "slug":"dakar",
+    "name":"Dakar"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.8604572,-31.9505269 ]
+    },
+    "properties": {
+    "rank":43,
+    "slug":"perth",
+    "name":"Perth"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.109497,22.396428 ]
+    },
+    "properties": {
+    "rank":44,
+    "slug":"hongkong",
+    "name":"Hong Kong"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 53.688046,32.427908 ]
+    },
+    "properties": {
+    "rank":45,
+    "slug":"iran",
+    "name":"Iran"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3698028,29.7604267 ]
+    },
+    "properties": {
+    "rank":46,
+    "slug":"houston",
+    "name":"Houston"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.9987942,39.9611755 ]
+    },
+    "properties": {
+    "rank":47,
+    "slug":"columbus",
+    "name":"Columbus"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.7452904,42.1354079 ]
+    },
+    "properties": {
+    "rank":48,
+    "slug":"plovdiv",
+    "name":"Plovdiv"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8419192,46.4628333 ]
+    },
+    "properties": {
+    "rank":49,
+    "slug":"vevey",
+    "name":"Vevey"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -6.2885962,36.5270612 ]
+    },
+    "properties": {
+    "rank":50,
+    "slug":"cadiz",
+    "name":"Cádiz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.249411,-29.903184 ]
+    },
+    "properties": {
+    "rank":51,
+    "slug":"elquivalley",
+    "name":"The Elqui Valley"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.8295234,-17.5388435 ]
+    },
+    "properties": {
+    "rank":52,
+    "slug":"tahiti",
+    "name":"The Islands of Tahiti"
+    }
+  }
+]
+})

@@ -21,7 +21,7 @@ function loadData(element) {
   year = element.id;
 
   var script = document.createElement('script');
-  var url = 'http://scottbossak.com/52places/data/' + year + '.geojson'
+  var url = 'data/' + year + '.geojson'
   script.src = url;
   document.getElementsByTagName('head')[0].appendChild(script);
   $(element).addClass('active active' + year);
@@ -55,6 +55,12 @@ function colorForYear(year) {
     case "2017":
       color = "#3498db";
       break;
+    case "2018":
+      color = "#1abc9c";
+      break;
+    case "2019":
+      color = "#2B3E50";
+      break;
     default:
   }
   return color
@@ -80,6 +86,12 @@ function urlFor(year, slug) {
       break;
     case "2017":
       url = "https://www.nytimes.com/interactive/2017/travel/places-to-visit.html?place=" + slug;
+      break;
+    case "2018":
+      url = "https://www.nytimes.com/interactive/2018/travel/places-to-visit.html?place=" + slug;
+      break;
+    case "2019":
+      url = "https://www.nytimes.com/interactive/2019/travel/places-to-visit.html?place=" + slug;
       break;
     default:
   }
